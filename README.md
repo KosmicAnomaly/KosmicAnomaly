@@ -7,13 +7,12 @@
 
 ## Discord Bot & Game Developer
 
-- 🌱 Learning C++, Javascript, and React
-
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][vscode]
-[<img align="left" alt="Atom" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/atom/atom-original.svg" style="padding-right:10px;" />][atom]
+
 [<img align="left" alt="Docker" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/docker/docker-original.svg" style="padding-right:10px;" />][docker]
+[<img align="left" alt="Ansible" width="26px" src="https://user-images.githubusercontent.com/38637223/44164304-83a6c880-a07a-11e8-9e88-a68225815756.png" style="padding-right:10px;" />][ansible]
 [<img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original.svg" style="padding-right:10px;" />][python]
 [<img align="left" alt="C++" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />][cplusplus]
 [<img align="left" alt="ReactJS" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/react/react-original.svg" style="padding-right:10px;" />][reactjs]
@@ -32,3 +31,4 @@
 [raspberrypi]: https://www.raspberrypi.org/
 [cplusplus]: https://www.cplusplus.com/
 [reactjs]: https://reactjs.org/
+[ansible]: https://www.ansible.com/
